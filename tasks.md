@@ -24,3 +24,6 @@ else
 
     }
 }
+   Console.WriteLine("number is odd");
+}
+
