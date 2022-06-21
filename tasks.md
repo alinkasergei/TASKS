@@ -10,4 +10,5 @@ if (n % 2 == 0)
 
 else
 {
-    Console.WriteLine("number is odd");
+   Console.WriteLine("number is odd");
+}
