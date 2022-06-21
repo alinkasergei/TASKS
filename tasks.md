@@ -1,29 +1,5 @@
-int n;
-int count;
-Console.WriteLine("input a number ");
-n = Convert.ToInt32(Console.ReadLine());
-count = 1;
-if (n > 0)
-{
-    while (count < n)
-    {
-        if ( count % 2 == 0)
-          Console.WriteLine(count);
-        
-        count++;
-    }
-}
-else
-{
-    while (n < 0)
-    {
-        if ( n % 2 == 0)
-          Console.WriteLine(n);
-        
-        n++;
-
-    }
-}
-   Console.WriteLine("number is odd");
-}
-
+# Решение задач к первому семинару 
+## Задача 1 - ветка *task1*
+## Задача 2 - ветка *task2*
+## Задача 3 - ветка *task3*
+## Задача 4 - ветка *task4*
